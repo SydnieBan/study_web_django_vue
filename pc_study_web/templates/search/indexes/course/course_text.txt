@@ -1,0 +1,4 @@
+{{ object.name }}
+{{ object.introduce }}
+{{ object.classify__name }}
+{{ object.classify__direction__name }}
